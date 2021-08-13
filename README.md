@@ -1,5 +1,16 @@
 # ZJU-Course-Selection
-浙江大学选课脚本
+
+> ZJU 选课脚本 v1.0 by：Tenderness
+>
+> 免责声明：本脚本仅供内部学习研究使用，请勿将其用作任何违法用途，否则后果自负，作者将不为其承担任何法律责任，下载后请24h内删除  
+>
+> 本脚本使用API均为开放API，权限与正常选课没有区别，唯一用途仅为代替人力，请勿盲目自信自己的运气
+
+**浙江大学选课脚本**
+
+**使用前请先安装python3和requests模块，推荐使用python3.75及以上版本运行**
+
+**requests安装：pip3 install requests (pip install requests)**
 
 这是一个帮助你自动选课的脚本，可以用于低分定点选课阶段的抢课
 
